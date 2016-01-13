@@ -1,0 +1,28 @@
+name: wilguerrero
+favicon: null
+layout_spectrum: 0.8093855902552605
+typography_spectrum: 0.8221031432040036
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.41837381897494197
+  lightness: 0.021613561548292637
+  saturation: 0.9312366812955588
+  rhythmicContrast: 0.3469131598249078
+purpose: []
