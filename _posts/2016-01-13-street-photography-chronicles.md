@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-13T05:04:03.595Z'
-dateModified: '2016-01-13T05:03:54.260Z'
+datePublished: '2016-01-13T05:10:54.278Z'
+dateModified: '2016-01-13T05:10:43.745Z'
 title: Street Photography Chronicles
 author: []
+sourcePath: _posts/2016-01-13-street-photography-chronicles.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-13-street-photography-chronicles.md
-published: true
 url: street-photography-chronicles/index.html
 _type: Article
 
