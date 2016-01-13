@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-13T05:03:01.919Z'
-dateModified: '2016-01-13T04:38:32.639Z'
+datePublished: '2016-01-13T05:04:03.595Z'
+dateModified: '2016-01-13T05:03:54.260Z'
 title: Street Photography Chronicles
 author: []
 authors: []
