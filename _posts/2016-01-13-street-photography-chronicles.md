@@ -8,18 +8,18 @@ description: >-
   Did some street photography over the weekend and realized that I had become a
   bit rusty with the dials of my camera. However, that only lasted for a few
   minutes as my knowledge came rushing back. 
-datePublished: '2016-07-23T15:27:35.680Z'
-dateModified: '2016-07-23T15:27:35.311Z'
+datePublished: '2016-07-23T15:37:01.011Z'
+dateModified: '2016-07-23T15:36:08.196Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-13-street-photography-chronicles.md
+via: {}
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-via: {}
 starred: true
 url: street-photography-chronicles/index.html
 _type: Article
