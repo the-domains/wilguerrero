@@ -4,8 +4,15 @@
         <description><![CDATA[Wil Guerrero Photography]]></description>
         <link>https://thegrid.ai/wilguerrero/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 15:44:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2016 15:45:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wilguerrero/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31f45c64-0c35-47f8-afd6-993a579f6581.jpg">]]></description>
+            <link>https://thegrid.ai/wilguerrero/96f913fb-9899-4f78-9b69-3c9b522e18aa/index.html</link>
+            <guid isPermaLink="false">96f913fb-9899-4f78-9b69-3c9b522e18aa</guid>
+            <pubDate>Sat, 23 Jul 2016 15:44:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Street Photography Chronicles]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c901dd9e-2550-458f-80b6-16fbe7e26aca.jpg">]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/wilguerrero/b49ba867-4af6-4c59-bc2c-2888835940e8/index.html</link>
             <guid isPermaLink="false">b49ba867-4af6-4c59-bc2c-2888835940e8</guid>
             <pubDate>Sat, 23 Jul 2016 15:35:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31f45c64-0c35-47f8-afd6-993a579f6581.jpg">]]></description>
-            <link>https://thegrid.ai/wilguerrero/96f913fb-9899-4f78-9b69-3c9b522e18aa/index.html</link>
-            <guid isPermaLink="false">96f913fb-9899-4f78-9b69-3c9b522e18aa</guid>
-            <pubDate>Wed, 13 Jan 2016 02:55:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
