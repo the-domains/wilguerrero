@@ -1,7 +1,7 @@
 name: wilguerrero
 favicon: null
 layout_spectrum: 0.57496
-typography_spectrum: 0.88621
+typography_spectrum: 0.90909
 title: Wil Guerrero Photography
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#830000'
-    - '#905900'
-    - '#fefefd'
-    - '#c78d44'
+    - '#1c1c1c'
+    - '#d1d1d1'
+    - '#3d3d3d'
+    - '#555555'
+    - '#a0a0a0'
   brandStrength: 0
   lightness: 0.5625
   saturation: 1
